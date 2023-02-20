@@ -20,6 +20,7 @@ class EpidemicStats:
 
     def update(self):
         """
+	my small change
         Updates the graph visualization
         """
         legend = Rect(10, 10, 180, 110)
